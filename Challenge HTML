@@ -10,7 +10,8 @@
         <h1 style="color:darkblue; font-size: 50px;">PRESENTAZIONE</h1>
         <img 
         style="width: 300px;"
-        src="https://i.ibb.co/MyG40xvc/Screenshot-2026-02-24-152648.png"/>
+        src="https://i.ibb.co/MyG40xvc/Screenshot-2026-02-24-152648.png"
+        alt="Immagine della presentazione"/>
         <div style="background-color: lightblue; border-radius: 16px; margin: auto 20px auto; padding: 8px; margin-top: 20px;">
         <h2 style="color:orange;">Chi sono</h2>
         <p>Salve a tutti, mi chiamo <span style="color: darkgoldenrod; font-weight: bold;">Davide</span>, vivo in provincia di Viterbo, ho iniziato questo percorso di formazione per voler imparare a programmare siti web e come molti (secondo me almeno ahahah) poter lavorare in remoto nella comodità di casa.</p>
