@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+body {
+    font-family: 'patrick hand', cursive;
+    font-size: larger;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: rgb(94, 193, 226);
+}
+
+#chi-sono {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+#immagine-della-presentazione {
+height: 300px;
+margin: 10px;
+border-radius: 15px;
+box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+#testo-chi-sono {
+    text-align: left;
+}
+
+#nome-scuola {
+    color: green;
+    font-size: 1.1em;
+    font-style: italic;
+}
+
+#info-contatti {
+    font-style: italic;
+}
+
+.box {
+        background-color: lightblue;
+    padding: 20px 40px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 1000px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.liste{
+    text-align: left;
+    display: inline-block;
+}
+
+.bold {
+    font-weight: bold;
+    text-transform: uppercase;
+}
